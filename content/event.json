@@ -1,0 +1,212 @@
+{
+  "speakers": [
+    {
+      "id": "kevin-mckee",
+      "name": "Kevin R. McKee",
+      "role": "Staff Research Scientist",
+      "affiliation": "Google DeepMind",
+      "url": "https://www.empiricallykev.com/",
+      "logo": "google-deepmind"
+    },
+    {
+      "id": "winnie-street",
+      "name": "Winnie Street",
+      "role": "Senior Researcher",
+      "affiliation": "Google Research",
+      "url": "https://uk.linkedin.com/in/winniestreet",
+      "logo": "google-research"
+    },
+    {
+      "id": "martin-anthony",
+      "name": "Martin Anthony",
+      "role": "Professor of Mathematics",
+      "affiliation": "LSE",
+      "url": "https://personal.lse.ac.uk/anthony/",
+      "logo": "lse"
+    },
+    {
+      "id": "jennifer-ding",
+      "name": "Jennifer Ding",
+      "role": "TPS Senior Researcher",
+      "affiliation": "The Alan Turing Institute",
+      "url": "https://jending.com/",
+      "logo": "alan-turing"
+    },
+    {
+      "id": "lujain-ibrahim",
+      "name": "Lujain Ibrahim",
+      "role": "PhD Candidate, Social Data Science",
+      "affiliation": "Oxford",
+      "url": "https://lujainibrahim.com/",
+      "logo": "oxford"
+    },
+    {
+      "id": "aidan-peppin",
+      "name": "Aidan Peppin",
+      "role": "Policy & Responsible AI Lead",
+      "affiliation": "Cohere for AI",
+      "url": "https://www.linkedin.com/in/aidan-peppin/?originalSubdomain=uk",
+      "logo": "cohere-ai"
+    }
+  ],
+  "committee": [
+    {
+      "id": "xule-lin",
+      "name": "Xule Lin",
+      "role": "PhD Candidate",
+      "affiliation": "Imperial College Business School",
+      "url": "https://linxule.com/"
+    },
+    {
+      "id": "kevin-corley",
+      "name": "Kevin Corley",
+      "role": "Professor, Head of Department",
+      "affiliation": "Imperial College Business School",
+      "url": "https://profiles.imperial.ac.uk/k.corley"
+    },
+    {
+      "id": "chris-tucci",
+      "name": "Chris Tucci",
+      "role": "Professor of Digital Strategy & Innovation, Co-Director of I-X",
+      "affiliation": "Imperial College London",
+      "url": "https://profiles.imperial.ac.uk/c.tucci"
+    },
+    {
+      "id": "susan-scott",
+      "name": "Susan Scott",
+      "role": "Professor of Management and Artificial Intelligence",
+      "affiliation": "Imperial College London",
+      "url": "https://www.linkedin.com/in/susan-scott-210ab64/?originalSubdomain=uk"
+    },
+    {
+      "id": "david-shrier",
+      "name": "David Shrier",
+      "role": "Professor of Practice, AI & Innovation",
+      "affiliation": "Trusted AI Alliance",
+      "url": "https://profiles.imperial.ac.uk/david.shrier"
+    },
+    {
+      "id": "mark-kennedy",
+      "name": "Mark Kennedy",
+      "role": "Professor, Director of DSI",
+      "affiliation": "Imperial College London",
+      "url": "https://profiles.imperial.ac.uk/mark.kennedy"
+    }
+  ],
+  "schedule": [
+    {
+      "start": "13:00",
+      "end": "13:15",
+      "title": "Opening remarks",
+      "detail": "Kevin Corley (Imperial)"
+    },
+    {
+      "start": "13:15",
+      "end": "14:15",
+      "title": "Session 1 · Unraveling the Synergies and Differences Between Human and Artificial Intelligence",
+      "detail": "Presenters: Kevin R. McKee (Google DeepMind), Winnie Street (Google Research). Respondent: Martin Anthony (LSE).",
+      "anchor": "session-1"
+    },
+    {
+      "start": "14:15",
+      "end": "14:45",
+      "title": "Coffee break",
+      "detail": ""
+    },
+    {
+      "start": "14:45",
+      "end": "15:45",
+      "title": "Session 2 · Building Trustworthy AI: Balancing Openness, Ethics, Reliability, and Transparency",
+      "detail": "Presenters: Jennifer Ding (The Alan Turing Institute), Lujain Ibrahim (Oxford). Respondent: Aidan Peppin (Cohere for AI).",
+      "anchor": "session-2"
+    },
+    {
+      "start": "15:45",
+      "end": "16:15",
+      "title": "Panel discussion",
+      "detail": "Moderator: Susan Scott (Imperial)"
+    },
+    {
+      "start": "16:15",
+      "end": "16:30",
+      "title": "Closing remarks",
+      "detail": "David Shrier (Trusted AI Alliance)"
+    },
+    {
+      "start": "16:30",
+      "end": "17:30",
+      "title": "Post-event reception",
+      "detail": ""
+    }
+  ],
+  "sessions": [
+    {
+      "id": "session-1",
+      "number": "01",
+      "title": "Unraveling the Synergies and Differences Between Human and Artificial Intelligence",
+      "items": [
+        {
+          "start": "13:15",
+          "end": "13:30",
+          "type": "Paper presentation",
+          "title": "Warmth and Competence in Human-Agent Cooperation",
+          "by": "Kevin R. McKee (Google DeepMind)",
+          "url": "https://link.springer.com/article/10.1007/s10458-024-09649-6",
+          "description": "Explore how social perception influences human-AI cooperation. This study reveals that warmth and competence assessments of AI agents better predict human preferences than task performance, emphasizing the importance of social factors in human-AI interactions."
+        },
+        {
+          "start": "13:30",
+          "end": "13:45",
+          "type": "Paper presentation",
+          "title": "Assessing LLM performance on higher-order theory of mind tasks",
+          "by": "Winnie Street (Google Research)",
+          "url": "https://arxiv.org/abs/2405.18870",
+          "description": "Discover how the performance of large language models (LLMs) compares to that of humans on theory of mind (ToM) tasks which involve reasoning about the multiple interrelated mental states of characters in short stories. This study shows that larger, fine-tuned LLMs come close to—and sometimes exceed—human performance on these tasks, and explores the implications for user-facing LLM applications and human-AI interactions."
+        },
+        {
+          "start": "13:45",
+          "end": "14:15",
+          "type": "Respondent-led discussion",
+          "title": "Synergies and Differences Between Human and Artificial Intelligence",
+          "by": "Respondent: Martin Anthony (LSE)",
+          "description": "Explore the unique strengths and complementary roles of human and artificial intelligence. This panel examines recent findings on AI's theory of mind capabilities and discusses how AI can augment human cognition across various domains."
+        }
+      ]
+    },
+    {
+      "id": "session-2",
+      "number": "02",
+      "title": "Building Trustworthy AI: Balancing Openness, Ethics, Reliability, and Transparency",
+      "items": [
+        {
+          "start": "14:45",
+          "end": "15:00",
+          "type": "Paper presentation",
+          "title": "Expanding Participatory AI Collaboration & Governance",
+          "by": "Jennifer Ding (The Alan Turing Institute)",
+          "url": "https://arxiv.org/abs/2405.13058",
+          "description": "Uncover collaboration patterns in the open AI ecosystem through a quantitative analysis of the Hugging Face Hub. Learn how licenses impact development activity and the role of key actors in shaping the future of AI."
+        },
+        {
+          "start": "15:00",
+          "end": "15:15",
+          "type": "Paper presentation",
+          "title": "Beyond static AI evaluations: advancing human interaction evaluations for LLM harms and risks",
+          "by": "Lujain Ibrahim (Oxford)",
+          "url": "https://arxiv.org/abs/2405.10632",
+          "description": "Explore the need for human interaction evaluations in assessing AI safety. Learn about a new framework for evaluating human-model interactions, crucial for understanding and mitigating potential harms in real-world AI applications."
+        },
+        {
+          "start": "15:15",
+          "end": "15:45",
+          "type": "Respondent-led discussion",
+          "title": "Fostering Openness, Transparency, and Ethical Standards in AI Development",
+          "by": "Respondent: Aidan Peppin (Cohere for AI)",
+          "description": "What are strategies for fostering openness, transparency, and ethical standards in AI development? This panel explores collaborative practices in the open AI ecosystem and discusses the importance of multi-stakeholder collaboration in shaping future AI policies."
+        }
+      ]
+    }
+  ],
+  "registration": "https://www.eventbrite.co.uk/e/human-artificial-intelligence-in-organizations-haio-symposium-tickets-996279578037",
+  "map": "https://maps.app.goo.gl/5X5XshaWvxLg34VK6"
+}

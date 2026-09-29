@@ -1,0 +1,147 @@
+[
+  {
+    "asset": "kevin-mckee.webp",
+    "source": "image (2).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "winnie-street.webp",
+    "source": "image (3).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "martin-anthony.webp",
+    "source": "image (4).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "jennifer-ding.webp",
+    "source": "image (5).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "lujain-ibrahim.webp",
+    "source": "image (6).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "aidan-peppin.webp",
+    "source": "image (7).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "xule-lin.webp",
+    "source": "E34B588B-61AD-4B89-BC36-2BEE5905B67B_1_105_c.jpg",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "kevin-corley.webp",
+    "source": "kevin.jpg",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "chris-tucci.webp",
+    "source": "image (8).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "susan-scott.webp",
+    "source": "image (11).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "david-shrier.webp",
+    "source": "image (10).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "mark-kennedy.webp",
+    "source": "image (9).png",
+    "description": "Portrait asset corresponding to labeled PDF layout, pages 3\u20135; resized, original framing retained."
+  },
+  {
+    "asset": "ribbon.webp",
+    "source": "HAIO Symposium.pdf / page 1 / X5.png",
+    "description": "Embedded artwork extracted with original alpha; lossless WebP encoding."
+  },
+  {
+    "asset": "ix-white.webp",
+    "source": "HAIO Symposium.pdf / page 1 / X8.png",
+    "description": "Embedded artwork extracted with original alpha; lossless WebP encoding."
+  },
+  {
+    "asset": "dsi-white.webp",
+    "source": "HAIO Symposium.pdf / page 1 / X10.png",
+    "description": "Embedded artwork extracted with original alpha; lossless WebP encoding."
+  },
+  {
+    "asset": "business-school-white.webp",
+    "source": "HAIO Symposium.pdf / page 1 / X12.png",
+    "description": "Embedded artwork extracted with original alpha; lossless WebP encoding."
+  },
+  {
+    "asset": "haio-white.webp",
+    "source": "HAIO Symposium.pdf / page 1 / X14.png",
+    "description": "Embedded artwork extracted with original alpha; lossless WebP encoding."
+  },
+  {
+    "asset": "favicon.png",
+    "source": "haio_logo.png",
+    "description": "Resized supplied logo."
+  },
+  {
+    "asset": "google-deepmind.webp",
+    "source": "HAIO Symposium.pdf / page 3 / X18.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "google-research.webp",
+    "source": "HAIO Symposium.pdf / page 3 / X26.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "lse.webp",
+    "source": "HAIO Symposium.pdf / page 3 / X20.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "alan-turing.webp",
+    "source": "HAIO Symposium.pdf / page 3 / X22.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "oxford.webp",
+    "source": "HAIO Symposium.pdf / page 3 / X24.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "cohere-ai.webp",
+    "source": "HAIO Symposium.pdf / page 3 / X28.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "business-school.webp",
+    "source": "HAIO Symposium.pdf / page 4 / X6.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "ix.webp",
+    "source": "HAIO Symposium.pdf / page 4 / X18.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "dsi.webp",
+    "source": "HAIO Symposium.pdf / page 5 / X9.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "trusted-ai.webp",
+    "source": "HAIO Symposium.pdf / page 5 / X23.png",
+    "description": "Original embedded affiliation artwork, transparent padding trimmed, lossless WebP."
+  },
+  {
+    "asset": "haio-mark.webp",
+    "source": "haio_logo.png",
+    "description": "Supplied flat HAIO mark, transparent padding trimmed; white treatment applied in CSS for decorative use."
+  }
+]

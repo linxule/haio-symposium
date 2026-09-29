@@ -1,0 +1,11 @@
+dist/
+.fonts/
+node_modules/
+.DS_Store
+.env
+.env.*
+*.log
+
+.wrangler/
+.dev.vars
+.dev.vars.*

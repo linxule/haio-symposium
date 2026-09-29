@@ -1,0 +1,24 @@
+{
+  "name": "haio-symposium",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Archive of the 2024 Human & Artificial Intelligence in Organization symposium at Imperial College London.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/serve.mjs",
+    "deploy": "npm run build && npm run check && wrangler deploy"
+  },
+  "homepage": "https://haiosymposium.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxule/haio-symposium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linxule/haio-symposium/issues"
+  }
+}
